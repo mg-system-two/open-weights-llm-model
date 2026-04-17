@@ -1,0 +1,8 @@
+rid,name,value,unit,keep_delete_edit
+#13:0,Fracture toughness,4.2,MPa.m0.5
+#13:3,MKNA,1500–1700 K regime,
+#13:1,expensive simulations,high computational cost,
+#13:4,fracture toughness,4.2,MPa.m0.5
+#13:5,graph models,"17,18",
+#13:6,self-supervised pretraining,19–22,
+#13:2,ΘD >800 K,4.2,K
