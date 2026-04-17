@@ -1,0 +1,13 @@
+llama-index
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+spacy
+spacy-llm
+fastapi
+uvicorn
+httpx
+pypdf
+python-dotenv
+ragas
+langfuse
+arcadedb-python

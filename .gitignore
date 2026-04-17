@@ -1,0 +1,9 @@
+*.tar.gz
+models/
+data/
+.env
+__pycache__/
+node_modules/
+venv/
+.DS_Store
+*.log
